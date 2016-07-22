@@ -1,4 +1,4 @@
-'use strict';
+'use strict';//kkk
 function thousands_separators(num) {
 	var r1=/^[0]*$/; 	
 	var array,str='';	
